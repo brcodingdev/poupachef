@@ -39,6 +39,7 @@
 
 ### TODO
 - Mais unit tests
+- Logs
 - Testes de integração
 - BDD com cucumber
 - Sonar
