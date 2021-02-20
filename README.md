@@ -23,10 +23,10 @@
 - Swagger UI http://localhost:8080/swagger-ui.html
 
 ### Testes dos endpoints
-- No postman ou swagger UI
+- No postman, selecione a variáveis poupachef
 - Execute os endpoints
 
-- login ``gerar o token``
+- login ``gerar o token, o mesmo irá setar o valor na variável token para ir no header Authorization``
 - create ``criar o produto``
 - get by id ``verificar o produto criado``
 - update ``atualizar o produto com o name, price e supplierId``

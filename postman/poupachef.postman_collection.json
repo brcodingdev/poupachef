@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "a71a0dce-7097-41ee-a5af-e4475447e130",
+		"_postman_id": "fe19e189-3707-4b23-b73e-6157a1bbb34e",
 		"name": "poupachef",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -83,7 +83,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n  \"id\": 1,\r\n  \"name\": \"Arroz\",\r\n  \"price\": 1,\r\n  \"supplierId\": 2\r\n}",
+							"raw": "{\r\n  \"id\": 1,\r\n  \"name\": \"Feijão\",\r\n  \"price\": 1,\r\n  \"supplierId\": 2\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
